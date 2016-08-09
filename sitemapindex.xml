@@ -6,51 +6,51 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://example.com/authors/roberto-alsina.xml</loc>
-  <lastmod>2016-08-09T13:51:00Z</lastmod>
+  <loc>https://ryanpdwyer.github.io/authors/roberto-alsina.xml</loc>
+  <lastmod>2016-08-09T13:54:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/authors/ryan-dwyer.xml</loc>
-  <lastmod>2016-08-09T13:51:00Z</lastmod>
+  <loc>https://ryanpdwyer.github.io/authors/ryan-dwyer.xml</loc>
+  <lastmod>2016-08-09T13:54:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/blog.xml</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <loc>https://ryanpdwyer.github.io/categories/blog.xml</loc>
+  <lastmod>2016-08-09T13:54:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/cat_nikola.xml</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <loc>https://ryanpdwyer.github.io/categories/cat_nikola.xml</loc>
+  <lastmod>2016-08-09T13:54:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/demo.xml</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <loc>https://ryanpdwyer.github.io/categories/demo.xml</loc>
+  <lastmod>2016-08-09T13:54:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/mathjax.xml</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <loc>https://ryanpdwyer.github.io/categories/mathjax.xml</loc>
+  <lastmod>2016-08-09T13:54:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/nikola.xml</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <loc>https://ryanpdwyer.github.io/categories/nikola.xml</loc>
+  <lastmod>2016-08-09T13:54:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/categories/python.xml</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <loc>https://ryanpdwyer.github.io/categories/python.xml</loc>
+  <lastmod>2016-08-09T13:54:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/galleries/demo/rss.xml</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <loc>https://ryanpdwyer.github.io/galleries/demo/rss.xml</loc>
+  <lastmod>2016-08-09T13:54:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/galleries/rss.xml</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <loc>https://ryanpdwyer.github.io/galleries/rss.xml</loc>
+  <lastmod>2016-08-09T13:54:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/rss.xml</loc>
-  <lastmod>2016-08-09T13:49:00Z</lastmod>
+  <loc>https://ryanpdwyer.github.io/rss.xml</loc>
+  <lastmod>2016-08-09T13:54:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://example.com/sitemap.xml</loc>
-  <lastmod>2016-08-09T13:51:00Z</lastmod>
+  <loc>https://ryanpdwyer.github.io/sitemap.xml</loc>
+  <lastmod>2016-08-09T13:54:00Z</lastmod>
  </sitemap>
 </sitemapindex>
