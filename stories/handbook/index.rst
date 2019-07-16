@@ -1,10 +1,9 @@
 .. title: The Nikola Handbook
 .. slug: handbook
 .. date: 2012-03-30 23:00:00 UTC-03:00
-.. link:
-.. description:
-.. tags: mathjax
+.. tags: 
 .. author: The Nikola Team
+.. has_math: yes
 
 The Nikola Handbook
 ===================
