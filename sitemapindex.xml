@@ -7,50 +7,54 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://ryanpdwyer.github.io/authors/roberto-alsina.xml</loc>
-  <lastmod>2016-08-09T14:25:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ryanpdwyer.github.io/authors/ryan-dwyer.xml</loc>
-  <lastmod>2016-08-09T14:25:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ryanpdwyer.github.io/categories/blog.xml</loc>
-  <lastmod>2016-08-09T13:54:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ryanpdwyer.github.io/categories/cat_nikola.xml</loc>
-  <lastmod>2016-08-09T13:54:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://ryanpdwyer.github.io/categories/cat_posts.xml</loc>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ryanpdwyer.github.io/categories/demo.xml</loc>
-  <lastmod>2016-08-09T13:54:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ryanpdwyer.github.io/categories/mathjax.xml</loc>
-  <lastmod>2016-08-09T13:54:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ryanpdwyer.github.io/categories/nikola.xml</loc>
-  <lastmod>2016-08-09T13:54:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ryanpdwyer.github.io/categories/python.xml</loc>
-  <lastmod>2016-08-09T13:54:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ryanpdwyer.github.io/galleries/demo/rss.xml</loc>
-  <lastmod>2016-08-09T14:25:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ryanpdwyer.github.io/galleries/rss.xml</loc>
-  <lastmod>2016-08-09T14:25:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ryanpdwyer.github.io/rss.xml</loc>
-  <lastmod>2016-08-09T13:54:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://ryanpdwyer.github.io/sitemap.xml</loc>
-  <lastmod>2016-08-09T14:25:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </sitemap>
 </sitemapindex>

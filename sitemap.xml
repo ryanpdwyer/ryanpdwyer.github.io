@@ -7,150 +7,150 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://ryanpdwyer.github.io/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/2012/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/2016/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/archive.html</loc>
-  <lastmod>2016-08-09T14:25:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/authors/</loc>
-  <lastmod>2016-08-09T14:25:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/authors/roberto-alsina/</loc>
-  <lastmod>2016-08-09T14:25:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/authors/ryan-dwyer/</loc>
-  <lastmod>2016-08-09T14:25:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/categories/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/categories/blog/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/categories/cat_nikola/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://ryanpdwyer.github.io/categories/cat_posts/</loc>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/categories/demo/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/categories/mathjax/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/categories/nikola/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/categories/python/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/galleries/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/galleries/demo/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/listings/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ryanpdwyer.github.io/listings/__pycache__/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/listings/hello.py.html</loc>
-  <lastmod>2016-08-09T14:25:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/posts/my-first-post/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/posts/test-jupyter-notebook/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/posts/welcome-to-nikola/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/stories/about-nikola/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/stories/bootstrap-demo/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/stories/charts/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/stories/creating-a-theme/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/stories/dr-nikolas-vendetta/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/stories/extending/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/stories/handbook/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/stories/internals/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/stories/listings-demo/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/stories/path-handlers/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/stories/quickref/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/stories/quickstart/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/stories/slides-demo/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/stories/social_buttons/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
  <url>
   <loc>https://ryanpdwyer.github.io/stories/theming/</loc>
-  <lastmod>2016-07-29T14:02:00Z</lastmod>
+  <lastmod>2019-07-16T18:09:00Z</lastmod>
  </url>
 </urlset>

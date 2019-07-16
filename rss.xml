@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>My Nikola Site</title><link>https://ryanpdwyer.github.io/</link><description>This is a demo site for Nikola.</description><atom:link href="https://ryanpdwyer.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Tue, 09 Aug 2016 13:54:01 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Test Jupyter Notebook</title><link>https://ryanpdwyer.github.io/posts/test-jupyter-notebook/</link><dc:creator>Ryan Dwyer</dc:creator><description>&lt;div tabindex="-1" id="notebook" class="border-box-sizing"&gt;
-    &lt;div class="container" id="notebook-container"&gt;
-
-&lt;div class="cell border-box-sizing text_cell rendered"&gt;
-&lt;div class="prompt input_prompt"&gt;
-&lt;/div&gt;
-&lt;div class="inner_cell"&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Nikola Site</title><link>https://ryanpdwyer.github.io/</link><description>Ryan Dwyer's research and teaching website.</description><atom:link href="https://ryanpdwyer.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><lastBuildDate>Tue, 16 Jul 2019 18:09:48 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Test Jupyter Notebook</title><link>https://ryanpdwyer.github.io/posts/test-jupyter-notebook/</link><dc:creator>Ryan Dwyer</dc:creator><description>&lt;div&gt;&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;&lt;div class="inner_cell"&gt;
 &lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
 &lt;h3 id="Some-jupyter-notebook-content"&gt;Some jupyter notebook content&lt;a class="anchor-link" href="https://ryanpdwyer.github.io/posts/test-jupyter-notebook/#Some-jupyter-notebook-content"&gt;¶&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Just a test. For example,&lt;/p&gt;
 $$y \sim \mathcal{N}(\alpha x + \beta, \sigma)$$
@@ -23,7 +18,7 @@ $$y \sim \mathcal{N}(\alpha x + \beta, \sigma)$$
 &lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;random&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;seed&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;1244455&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
-&lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -38,7 +33,7 @@ $$y \sim \mathcal{N}(\alpha x + \beta, \sigma)$$
 &lt;span class="n"&gt;mb&lt;/span&gt; &lt;span class="o"&gt;=&lt;/span&gt; &lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;polyfit&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;y&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
-&lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -52,7 +47,7 @@ $$y \sim \mathcal{N}(\alpha x + \beta, \sigma)$$
 &lt;span class="n"&gt;plt&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;plot&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;np&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="n"&gt;polyval&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;mb&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="n"&gt;x&lt;/span&gt;&lt;span class="p"&gt;),&lt;/span&gt; &lt;span class="s1"&gt;'b-'&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
-&lt;/div&gt;
+    &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -60,7 +55,11 @@ $$y \sim \mathcal{N}(\alpha x + \beta, \sigma)$$
 &lt;div class="output"&gt;
 
 
-&lt;div class="output_area"&gt;&lt;div class="prompt output_prompt"&gt;Out[10]:&lt;/div&gt;
+&lt;div class="output_area"&gt;
+
+    &lt;div class="prompt output_prompt"&gt;Out[10]:&lt;/div&gt;
+
+
 
 
 &lt;div class="output_text output_subarea output_execute_result"&gt;
@@ -69,7 +68,11 @@ $$y \sim \mathcal{N}(\alpha x + \beta, \sigma)$$
 
 &lt;/div&gt;
 
-&lt;div class="output_area"&gt;&lt;div class="prompt"&gt;&lt;/div&gt;
+&lt;div class="output_area"&gt;
+
+    &lt;div class="prompt"&gt;&lt;/div&gt;
+
+
 
 
 &lt;div class="output_png output_subarea "&gt;
@@ -81,10 +84,7 @@ $$y \sim \mathcal{N}(\alpha x + \beta, \sigma)$$
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-</description><guid>https://ryanpdwyer.github.io/posts/test-jupyter-notebook/</guid><pubDate>Wed, 27 Jul 2016 02:40:23 GMT</pubDate></item><item><title>My first post</title><link>https://ryanpdwyer.github.io/posts/my-first-post/</link><dc:creator>Ryan Dwyer</dc:creator><description>&lt;p&gt;Write your post here.
+&lt;/div&gt;&lt;/div&gt;</description><guid>https://ryanpdwyer.github.io/posts/test-jupyter-notebook/</guid><pubDate>Wed, 27 Jul 2016 02:40:23 GMT</pubDate></item><item><title>My first post</title><link>https://ryanpdwyer.github.io/posts/my-first-post/</link><dc:creator>Ryan Dwyer</dc:creator><description>&lt;p&gt;Write your post here.
 This post now contains some &lt;span class="math"&gt;\(A = U \Sigma V^T\)&lt;/span&gt;.&lt;/p&gt;</description><category>mathjax</category><guid>https://ryanpdwyer.github.io/posts/my-first-post/</guid><pubDate>Tue, 26 Jul 2016 21:34:32 GMT</pubDate></item><item><title>Welcome to Nikola</title><link>https://ryanpdwyer.github.io/posts/welcome-to-nikola/</link><dc:creator>Roberto Alsina</dc:creator><description>&lt;div&gt;&lt;div class="figure"&gt;
 &lt;a class="reference external image-reference" href="https://farm1.staticflickr.com/138/352972944_4f9d568680_z.jpg?zz=1"&gt;&lt;img alt="Nikola Tesla Corner by nicwest, on Flickr" class="thumbnail" src="https://farm1.staticflickr.com/138/352972944_4f9d568680.jpg"&gt;&lt;/a&gt;
 &lt;/div&gt;
