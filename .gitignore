@@ -1,8 +1,6 @@
 *.ipynb_checkpoints/
-*.html
-output/
-cache/
-__pycache__/
+output
+cache
+__pycache__
 _nikola_zsh
-.doit*
-
+.doit.db

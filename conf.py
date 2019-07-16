@@ -25,8 +25,8 @@ SITE_URL = "https://ryanpdwyer.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "rpd78@cornell.edu"
-BLOG_DESCRIPTION = "This is a demo site for Nikola."  # (translatable)
+BLOG_EMAIL = "dwyerry@mountunion.edu"
+BLOG_DESCRIPTION = "Ryan Dwyer's research and teaching website."  # (translatable)
 
 # Nikola is multilingual!
 #
